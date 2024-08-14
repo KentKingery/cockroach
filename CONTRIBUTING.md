@@ -38,3 +38,6 @@ Please follow the guidelines outlined in our [Code of Conduct](https://docs.goog
 As a contributor, you can help us keep our community open and
 inclusive. Please read and follow our [Code of
 Conduct](https://github.com/cockroachdb/code-of-conduct).
+
+## Added section for test
+This is some text I put in to test a PR process.
